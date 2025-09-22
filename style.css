@@ -90,6 +90,7 @@ main h1{
     font-family: "Poppins", sans-serif;
     padding:1rem;
 }
+
 main section{
     display:flex;
     justify-content:center;
@@ -97,6 +98,7 @@ main section{
     gap:6rem;
     width:100%
 }
+
 main section article{
     display:flex;
     flex-direction:column;
